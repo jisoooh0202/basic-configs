@@ -1,0 +1,15 @@
+# Must needs
+
+## snap available
+
+- bitwarden
+- vscode
+
+## apt packages
+
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git): `sudo apt install git-all`
+
+## others
+
+- [ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent): `ssh-keygen -t ed25519 -C "your_email@example.com"`
+- [uv](https://docs.astral.sh/uv/getting-started/installation/): `wget -qO- https://astral.sh/uv/install.sh | sh`
